@@ -9,7 +9,7 @@
 [JDK 11 Documentation](https://docs.oracle.com/en/java/javase/11/)
 
 
-## [2. Introduction to Spring Framework](https://www.geeksforgeeks.org/introduction-to-spring-framework/)
+## [2. Introduction to Spring Framework](https://www.javatpoint.com/spring-tutorial)
 
 
 ## 3.
