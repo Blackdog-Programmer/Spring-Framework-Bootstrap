@@ -16,6 +16,7 @@
   <li><a href="http://maven.apache.org/guides/introduction/introduction-to-the-pom.html">Introduction to the POM</a></li>
 </ul>
 
+![Apache Maven Default Life Cycle](https://github.com/Blackdog-Programmer/Spring-Framework-Bootstrap/blob/master/reference/apache_maven/maven_default_lifecycle.png)
 
 ## [3. Introduction to Spring Framework](https://www.javatpoint.com/spring-tutorial)
 <ul>
