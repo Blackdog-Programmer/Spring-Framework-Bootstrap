@@ -9,7 +9,7 @@
 [JDK 11 Documentation](https://docs.oracle.com/en/java/javase/11/)
 
 
-## [2. Apache Maven Project](http://maven.apache.org/index.html)
+## [2. Apache Maven](http://maven.apache.org/index.html)
 <ul>
   <li><a href="http://maven.apache.org/what-is-maven.html">What is Maven?</a></li>
   <li><a href="http://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html">Introduction to the Build Lifecycle</a></li>
