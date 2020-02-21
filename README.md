@@ -1,6 +1,6 @@
 ## 0. Articles
 <ul>
-  <li><a href="https://www.javatpoint.com/spring-mvc-tutorial">What is Spring Web MVC?</a></li>
+  <li><a href="https://www.javatpoint.com/spring-mvc-tutorial">What is Spring Web MVC(Model-View-Controller)?</a></li>
   <img src="https://static.javatpoint.com/sppages/images/flow-of-spring-web-mvc.png", alt="flow of Spring Web MVC Flow">
 </ul>
 
