@@ -15,33 +15,4 @@
 [JDK 11 Documentation](https://docs.oracle.com/en/java/javase/11/)
 
 
-## [2. Apache Maven](http://maven.apache.org/index.html)
-<ul>
-  <li><a href="http://maven.apache.org/what-is-maven.html">What is Maven?</a></li>
-  <li><a href="http://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html">Introduction to the Build Lifecycle</a></li>
-  <li><a href="http://maven.apache.org/guides/introduction/introduction-to-the-pom.html">Introduction to the POM</a></li>
-</ul>
-
-![Apache Maven Default Life Cycle](https://github.com/Blackdog-Programmer/Spring-Framework-Bootstrap/blob/master/reference/apache_maven/maven_default_lifecycle.png)
-
-## [3. Introduction to Spring Framework](https://www.javatpoint.com/spring-tutorial)
-<ul>
-  <li><a href="">Inversion Of Control (IOC) and Dependency Injection</a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-  <li><a href=""> </a></li>
-</ul>
-
-
-## 4. Spring Annotations
-
-
-## 5.
-
-
-## 6.
-
-
-## 7.
+## [2. JavaPoint Spring Framework Tutorial](https://www.javatpoint.com/spring-tutorial)
