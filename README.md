@@ -6,10 +6,7 @@
 </ul>
 
 
-## 1. References
-<ul>
-  <li><a href="https://www.baeldung.com/start-here">Spring Master Course</a></li>
-</ul>
+## [1. Spring Guides](https://spring.io/guides)
 
 [Spring Framework 5](https://spring.io/), [Spring Data](https://spring.io/projects/spring-data), [Spring Data JPA](https://spring.io/projects/spring-data-jpa)\
 [Hibernate ORM](https://github.com/Blackdog-Programmer/Spring-Framework-Master/edit/master/README.md)\
