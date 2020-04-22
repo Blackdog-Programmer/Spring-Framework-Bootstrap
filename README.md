@@ -18,7 +18,9 @@
 ## [2. JavaPoint Spring Framework Tutorial](https://www.javatpoint.com/spring-tutorial)
 <ul>
   <li><a href="https://www.javatpoint.com/spring-modules">Spring Modules</a></li>
+  <li><a href="https://www.javatpoint.com/steps-to-create-spring-application">Spring Application</a></li>
 </ul>
+
 
 ## 3. Spring in IDE
 
