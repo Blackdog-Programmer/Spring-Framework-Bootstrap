@@ -15,7 +15,7 @@
 [JDK 11 Documentation](https://docs.oracle.com/en/java/javase/11/)
 
 
-## [2. JavaPoint Spring Framework Tutorial](https://www.javatpoint.com/spring-tutorial)
+## [2. Tutorial Point Spring Framework](https://www.tutorialspoint.com/spring/index.htm)
 <ul>
   <li><a href="https://www.javatpoint.com/spring-modules">Spring Modules</a></li>
   <li><a href="https://www.javatpoint.com/steps-to-create-spring-application">Spring Application</a></li>
