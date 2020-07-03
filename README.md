@@ -21,6 +21,7 @@
   <li><a href="https://www.javatpoint.com/steps-to-create-spring-application">Spring Application</a></li>
   <li><a href="https://springframework.guru/spring-framework-annotations/">Spring Annotation</a></li>
   <li><a href="https://www.baeldung.com/spring-bean">What is Spring Bean?</a></li>
+  <li><a href="https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring">IoC(Inversion Of Control)</a></li>
 </ul>
 
 
