@@ -82,7 +82,7 @@
 ## [21. Apache Tomcat](http://tomcat.apache.org/)
 <ul>
   <li><a href="https://en.wikipedia.org/wiki/Jakarta_Servlet">Java Servlet(Jakarta Servlet)</a>
-    <img src=https://static.javatpoint.com/images/response.JPG">
+    <img src="https://static.javatpoint.com/images/response.JPG">
     <ul>
       <li><a href="https://www.javatpoint.com/servlet-tutorial">Servlet Tutorial - Java Point</a></li>
     </ul>
