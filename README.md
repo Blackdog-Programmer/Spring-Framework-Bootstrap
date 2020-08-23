@@ -85,6 +85,7 @@
     <ul>
       <li><a href="https://www.javatpoint.com/servlet-tutorial">Servlet Tutorial - Java Point</a></li>
       <img src="https://static.javatpoint.com/images/response.JPG">
+      <img src="https://static.javatpoint.com/images/servlet.JPG" alt="Advantages of Servlet">
     </ul>
   </li>
   
