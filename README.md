@@ -83,6 +83,9 @@
 <ul>
   <li><a href="https://en.wikipedia.org/wiki/Jakarta_Servlet">Java Servlet(Jakarta Servlet)</a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/JSPLife.png" alt="Life of a JSP file">
+    <ul>
+      <li><a href="https://www.javatpoint.com/servlet-tutorial">Servlet Tutorial - Java Point</a></li>
+    </ul>
   </li>
   
 </ul>
