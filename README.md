@@ -41,7 +41,11 @@
 
 
 ## 8. Spring MVC
-
+<ul>
+  <ul>Spring Annotations
+    <li><a href="https://www.baeldung.com/spring-requestmapping">Spring MVC: @RequestMapping</a></li>
+  </ul>
+</ul>
 
 ## 9. MVC Form Tag Library
 
