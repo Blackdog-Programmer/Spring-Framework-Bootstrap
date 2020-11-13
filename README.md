@@ -42,7 +42,8 @@
 
 ## 8. Spring MVC
 <ul>
-  <ul>Spring Annotations
+  <strong>Spring Annotations</strong>
+  <ul>
     <li><a href="https://www.baeldung.com/spring-requestmapping">Spring MVC: @RequestMapping</a></li>
   </ul>
 </ul>
